@@ -1,0 +1,22 @@
+# List every site you want to track here.
+#
+# type: css   -> extract listings using CSS selectors (fast, free, reliable
+#                as long as the site's HTML structure doesn't change)
+# type: llm   -> extract listings by asking an LLM to read the page
+#                (works on messy/inconsistent layouts, needs ANTHROPIC_API_KEY
+#                set as a repo secret)
+#
+# Delete these examples and replace with your real sites.
+
+sites:
+  - name: "Example Co (CSS selectors)"
+    type: css
+    url: "https://example.com/careers"
+    selectors:
+      item: ".job-listing"     # CSS selector matching each job listing block
+      title: ".job-title"      # selector (within item) for the job title
+      link: "a"                # selector (within item) for the link element
+
+  - name: "Example Co 2 (LLM fallback)"
+    type: llm
+    url: "https://example2.com/jobs"
