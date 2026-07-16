@@ -9,9 +9,9 @@
 # Delete these examples and replace with your real sites.
 
 sites:
-  - name: "Example Co (CSS selectors)"
+  - name: "UCLL"
     type: css
-    url: "https://example.com/careers"
+    url: "https://ucll.cvw.io/?lang=nl-BE"
     selectors:
       item: ".job-listing"     # CSS selector matching each job listing block
       title: ".job-title"      # selector (within item) for the job title
