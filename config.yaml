@@ -39,13 +39,11 @@ sites:
          
   - name: "AP"
     type: llm
-    url: 
-         - "https://www.ap.be/vacatures"
+    url: "https://www.ap.be/vacatures" 
          
   - name: "KDG"
     type: llm
-    url: 
-         - "https://www.kdg.be/werken-bij-kdg/vacatures-bij-kdg"
+    url: "https://www.kdg.be/werken-bij-kdg/vacatures-bij-kdg"
          
   - name: "VUB"
     type: llm
