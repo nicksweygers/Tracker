@@ -17,6 +17,6 @@ sites:
       title: ".job-title"      # selector (within item) for the job title
       link: "a"                # selector (within item) for the link element
 
-  - name: "Example Co 2 (LLM fallback)"
+  - name: "UCLL"
     type: llm
-    url: "https://example2.com/jobs"
+    url: "https://ucll.cvw.io/?lang=nl-BE"
