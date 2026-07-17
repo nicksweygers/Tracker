@@ -36,3 +36,19 @@ sites:
     urls: 
          - "https://jobs.ugent.be/go/Professoren/8808802/"
          - "https://jobs.ugent.be/go/Onderzoekers/8808702/"
+         
+  - name: "AP"
+    type: llm
+    url: 
+         - "https://www.ap.be/vacatures"
+         
+  - name: "KDG"
+    type: llm
+    url: 
+         - "https://www.kdg.be/werken-bij-kdg/vacatures-bij-kdg"
+         
+  - name: "VUB"
+    type: llm
+    urls: 
+         - "https://jobs.vub.be/go/NL_ALL-JOBS/3776001/?q=&sortColumn=referencedate&sortDirection=desc"
+         - "https://jobs.vub.be/go/NL_ALL-JOBS/3776001/25/?q=&sortColumn=referencedate&sortDirection=desc"     
