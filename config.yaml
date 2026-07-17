@@ -30,3 +30,9 @@ sites:
          - "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures?p=1"
          - "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures?p=2"
          - "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures?p=3"
+         
+  - name: "UGent"
+    type: llm
+    urls: 
+         - "https://jobs.ugent.be/go/Professoren/8808802/"
+         - "https://jobs.ugent.be/go/Onderzoekers/8808702/"
