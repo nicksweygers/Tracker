@@ -23,3 +23,10 @@ sites:
     type: llm
     url: "https://vito.be/nl/jobs"
     render: true
+    
+  - name: "UHASSELT"
+    type: llm
+    urls: 
+         - "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures?p=1"
+         - "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures?p=2"
+         - "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures?p=3"
