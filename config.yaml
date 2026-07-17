@@ -12,7 +12,7 @@ sites:
 
   - name: "UCLL"
     type: llm
-    url: "https://ucll.cvw.io/?lang=nl-BE"
+    url: "https://www.uantwerpen.be/nl/jobs/vacatures/ap/"
     selectors:
       item: ".job-listing"     # CSS selector matching each job listing block
       title: ".job-title"      # selector (within item) for the job title
