@@ -15,6 +15,6 @@ sites:
     type: llm
     url: "https://ucll.cvw.io/?lang=nl-BE"
 
- - name: "VITO"
+  - name: "VITO"
     type: llm
     url: "https://vito.be/nl/jobs#paragraph-16553"
