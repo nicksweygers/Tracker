@@ -218,6 +218,22 @@
       "title": "Doctoral scholarship holder Electronics-ICT: Artificial Intelligence",
       "url": "https://www.uantwerpen.be/nl/jobs/vacatures/ap/?q=4503&descr=Doctoral-scholarship-holder-Electronics-ICT:-Artificial-Intelligence"
     },
+    "46b5c34995e29aa1": {
+      "title": "Doctoral scholarship holder Artificial Intelligence - continual graph learning",
+      "url": "https://www.uantwerpen.be/nl/jobs/vacatures/ap/?q=4507&descr=Doctoral-scholarship-holder-Artificial-Intelligence---continual-graph-learning"
+    },
+    "f0b2274e01849570": {
+      "title": "Doctoral scholarship holder  Artificial Intelligence - continual reinforcement learning",
+      "url": "https://www.uantwerpen.be/nl/jobs/vacatures/ap/?q=4508&descr=Doctoral-scholarship-holder--Artificial-Intelligence---continual-reinforcement-learning"
+    },
+    "9fd3fdfd2d14e5ad": {
+      "title": "Doctoral scholarship holder Artificial Intelligence - explainable reinforcement learning (XRL)",
+      "url": "https://www.uantwerpen.be/nl/jobs/vacatures/ap/?q=4509&descr=Doctoral-scholarship-holder-Artificial-Intelligence---explainable-reinforcement-learning-(XRL)"
+    },
+    "ac084c3ba1e1c1dc": {
+      "title": "Postdoctoral scholarship holder redox flow batteries",
+      "url": "https://www.uantwerpen.be/nl/jobs/vacatures/ap/?q=4506&descr=Postdoctoral-scholarship-holder-redox-flow-batteries"
+    },
     "35af75cc3cfe541f": {
       "title": "PhD researcher photoelectrochemistry and nucleic acid biosensing",
       "url": "https://www.uantwerpen.be/nl/jobs/vacatures/ap/?q=4318&descr=PhD-researcher-photoelectrochemistry-and-nucleic-acid-biosensing"
@@ -340,10 +356,6 @@
       "title": "Coördinator Aankoopdienst - Specialist Overheidsopdrachten Mol Support",
       "url": "https://jobs.vito.be/l/nl/o/coordinator-aankoopdienst-specialist-overheidsopdrachten?source=VITOWebsite"
     },
-    "1f609ad220d28da0": {
-      "title": "R&D Expert Construction Automation & Building Envelopes Genk R&D & Engineering",
-      "url": "https://jobs.vito.be/l/nl/o/rd-expert-construction-automation-building-envelopes?source=VITOWebsite"
-    },
     "1f15b7a0ae2eff34": {
       "title": "DevOps / Cloud Engineer – Earth Observation & Big Data Mol ICT & Data Science",
       "url": "https://jobs.vito.be/l/nl/o/devops-cloud-engineer-earth-observation-big-data?source=VITOWebsite"
@@ -412,8 +424,8 @@
       "title": "Satellite Image Processing Expert Mol R&D & Engineering",
       "url": "https://jobs.vito.be/l/nl/o/satellite-image-processing-expert?source=VITOWebsite"
     },
-    "861fdc3a64a4e817": {
-      "title": "R&D professional Ruimtelijk Dynamisch Modelleren Mol R&D & Engineering",
+    "d7d52ae0d6012f93": {
+      "title": "R&D Professional Ruimtelijk Dynamisch Modelleren Mol R&D & Engineering",
       "url": "https://jobs.vito.be/l/nl/o/rd-professional-ruimtelijk-dynamisch-modelleren-1?source=VITOWebsite"
     },
     "d0417cb9c2ceebf9": {
@@ -435,107 +447,123 @@
     "bbb6559407931cde": {
       "title": "Labo coördinator Watertechnologie en -Analyse Oostende Lab & Technicians",
       "url": "https://jobs.vito.be/l/nl/o/labo-coordinator-watertechnologie-en-analyse?source=VITOWebsite"
+    },
+    "ac47c051c2f59034": {
+      "title": "Onderzoeker Milieu & Gezondheid Beleidsadvies Mol R&D & Engineering",
+      "url": "https://jobs.vito.be/l/nl/o/onderzoeker-milieu-gezondheid-beleidsadvies?source=VITOWebsite"
+    },
+    "e9364ecd1751a2d1": {
+      "title": "R&D Technieker – Watertechnologie & Pilootinstallaties Oostende Lab & Technicians",
+      "url": "https://jobs.vito.be/l/nl/o/rd-technieker-watertechnologie-pilootinstallaties?source=VITOWebsite"
+    },
+    "f72bff74dca5a783": {
+      "title": "R&D Mechatronics Engineer Genk R&D & Engineering",
+      "url": "https://jobs.vito.be/l/nl/o/rd-mechatronics-engineer?source=VITOWebsite"
+    },
+    "63582e536ccde3c8": {
+      "title": "Senior Robotics Systems Architect (Technical Lead) Genk R&D & Engineering",
+      "url": "https://jobs.vito.be/l/nl/o/senior-robotics-systems-architect-technical-lead?source=VITOWebsite"
     }
   },
   "UHASSELT": {
-    "e788a5c98ca69b82": {
-      "title": "Navorser/Projectingenieur BAREFOOD - Barrier Strategies for Recycled Polyethylene in Food Packaging (100%)",
+    "cc83bb4ced398145": {
+      "title": "Navorser projectingenieur BAREFOOD - Barrier strategies for recycled polyethylene in food packaging (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3522-navorser-projectingenieur-barefood-barrier-strategies-for-recycled-polyethylene-in-food-packaging-100"
     },
-    "8dd3691aec298685": {
-      "title": "Deeltijds docent informatica - specialisatie Networking & Security (20%)",
+    "ffdf30bbbcc1b218": {
+      "title": "Deeltijds docent informatica - specialisatie networking security (20%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3525-deeltijds-docent-informatica-specialisatie-networking-security-20"
     },
-    "3e28660879bfe756": {
-      "title": "Deeltijds docent informatica - specialisatie Computational Fabrication (10%)",
+    "e03018ca2e399d15": {
+      "title": "Deeltijds docent informatica - specialisatie computational fabrication (10%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3526-deeltijds-docent-informatica-specialisatie-computational-fabrication-10"
     },
-    "14b9ca1e900857a3": {
-      "title": "Doctoraatsbursaal Trombo-inflammatie bij hemodialyse: van mechanisme tot cardiovasculaire uitkomst (100%)",
+    "88cbe072bf34eede": {
+      "title": "Doctoraatsbursaal trombo-inflammatie bij hemodialyse: van mechanisme tot cardiovasculaire uitkomst (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3548-doctoraatsbursaal-trombo-inflammatie-bij-hemodialyse-van-mechanisme-tot-cardiovasculaire-uitkomst-100"
     },
     "9073f53dc20c3bb5": {
       "title": "Product Owner ICT (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3551-product-owner-ict-100"
     },
-    "28807c43cb7d6fe0": {
-      "title": "Doctoraatsbursaal Onderwijskunde - Alternatieve patronen en verklaringen van leerprestaties in het lager onderwijs (100%)",
+    "d5c426ba4efe02f4": {
+      "title": "Doctoraatsbursaal onderwijskunde - alternatieve patronen en verklaringen van leerprestaties in het lager onderwijs (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3544-doctoraatsbursaal-onderwijskunde-alternatieve-patronen-en-verklaringen-van-leerprestaties-in-het-lager-onderwijs-100"
     },
-    "e1308507e4bc3e59": {
-      "title": "Doctoraatsbursaal DIGIDISC - Digitale buurten van jongeren in de context van alledaagse discriminatie (100%)",
+    "5eaa8776225c5115": {
+      "title": "Doctoraatsbursaal DigiDisc - digitale buurten van jongeren in de context van alledaagse discriminatie (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3503-doctoraatsbursaal-digidisc-digitale-buurten-van-jongeren-in-de-context-van-alledaagse-discriminatie-100"
     },
-    "09d46a02fc61f908": {
-      "title": "Doctoraatsbursaal Numerieke Analyse - Twee-fase stromingen: hoge-orde discretisaties (100%)",
+    "d0f9399a9f563361": {
+      "title": "Doctoraatsbursaal numerieke analyse - twee-fase stromingen hoge-orde discretisaties (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3513-doctoraatsbursaal-numerieke-analyse-twee-fase-stromingen-hoge-order-discretisaties-100"
     },
-    "a09c34abda0bb38e": {
-      "title": "Stafmedewerker Onderwijs Faculteit Rechten (100%)",
+    "8f51eafeef785d1f": {
+      "title": "Stafmedewerker onderwijs faculteit rechten (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3517-stafmedewerker-onderwijs-faculteit-rechten-100"
     },
-    "6ce8962d3004a2a5": {
-      "title": "Docent/Tenure Track/Hoofddocent/Hoogleraar Vakdidactiek Gezondheidswetenschappen (50%)",
+    "ed9b7e6acecf30ae": {
+      "title": "Docent / tenure track / hoofddocent / hoogleraar vakdidactiek gezondheidswetenschappen (50%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3520-docent-tenure-track-hoofddocent-hoogleraar-vakdidactiek-gezondheidswetenschappen-50"
     },
     "7236e62c041682d1": {
       "title": "Praktijkassistent Frans (5%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3540-praktijkassistent-frans-5"
     },
-    "0a232c35a3b91d2d": {
-      "title": "Financieel teamcoördinator Faculteit Wetenschappen (100%)",
+    "d40ca92a34fe628b": {
+      "title": "Financieel teamcoördinator faculteit Wetenschappen (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3550-financieel-teamcoordinator-faculteit-wetenschappen-100"
     },
-    "6dc689eb119c56e2": {
-      "title": "Doctoraatsbursaal Informatica - domein Networking & Security (100%)",
+    "84cb8530459a55a8": {
+      "title": "Doctoraatsbursaal informatica, domein networking & security (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3529-doctoraatsbursaal-informatica-domein-networking-security-100"
     },
-    "8d7a6175da9b8155": {
-      "title": "Doctoraatsbursaal Opvolging in familiebedrijven: de balans tussen traditie en vernieuwing (100%)",
+    "cb86acfb3f40aaa9": {
+      "title": "Doctoraatsbursaal opvolging in familiebedrijven: de balans tussen traditie en vernieuwing (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3531-doctoraatsbursaal-opvolging-in-familiebedrijven-de-balans-tussen-traditie-en-vernieuwing-100"
     },
-    "ca6f83c27b46dbd9": {
-      "title": "Doctoraatsbursaal Risicobeoordeling van natuurbranden en brandverspreiding (100%)",
+    "a460f89d447e717a": {
+      "title": "Doctoraatsbursaal risicobeoordeling van natuurbranden en brandverspreiding (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3537-doctoraatsbursaal-risicobeoordeling-van-natuurbranden-en-brandverspreiding-100"
     },
     "dc78a6e06d6f23fc": {
       "title": "Doctoraatsbursaal in stressfysiologie bij planten met het oog op duurzame gewasproductie en slimme combinatie van landbouw en zonne-energie (Agri-PV) (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3545-doctoraatsbursaal-in-stressfysiologie-bij-planten-met-het-oog-op-duurzame-gewasproductie-en-slimme-combinatie-van-landbouw-en-zonne-energie-agri-pv-100"
     },
-    "5017215fbf4da973": {
-      "title": "Doctoraatsbursaal Informatica, specialiserend in databasesystemen (100%)",
+    "b87808ce1335f682": {
+      "title": "Doctoraatsbursaal informatica, specialiserend in databasesystemen (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3533-doctoraatsbursaal-informatica-specialiserend-in-databasesystemen-100"
     },
-    "bab0671ba541455c": {
-      "title": "Praktijkassistent Staatsrecht (5%)",
+    "343e9955e521179a": {
+      "title": "Praktijkassistent staatsrecht (5%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3500-praktijkassistent-staatsrecht-5"
     },
-    "1e488e5e7afc8e13": {
-      "title": "Praktijkassistent Revalidatiewetenschappen en Kinesitherapie, specialisatie cardiorespiratoire en inwendige fysiologie (30%)",
+    "593a908e1f24e1ce": {
+      "title": "Praktijkassistent revalidatiewetenschappen en kinesitherapie, specialisatie cardiorespiratoire en inwendige fysiologie (30%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3539-praktijkassistent-revalidatiewetenschappen-en-kinesitherapie-specialisatie-cardiorespiratoire-en-inwendige-fysiologie-30"
     },
-    "cce171f2c1f8c87a": {
-      "title": "Doctoraatsbursaal Protest Politics (2 mandaten) (100%)",
+    "4487fb44b8301b90": {
+      "title": "Doctoraatsbursaal protest politics (2 mandaten) (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3546-doctoraatsbursaal-protest-politics-2-mandaten-100"
     },
     "3492f948722a2c11": {
       "title": "Stafmedewerker projectcoördinatie algemeen beheer UHasselt (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3549-stafmedewerker-projectcoordinatie-algemeen-beheer-uhasselt-100"
     },
-    "cc75afb02e885439": {
-      "title": "Stafmedewerker campusbeheer & campusontwikkeling (100%)",
+    "65e0a187688139cb": {
+      "title": "Stafmedewerker campusbeheer campusontwikkeling (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3552-stafmedewerker-campusbeheer-campusontwikkeling-100"
     },
     "c3f7293af3fa6658": {
       "title": "Doctoraatsbursaal EU energierecht (100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3543-doctoraatsbursaal-eu-energierecht-100"
     },
-    "8a5ebe0c101601c0": {
-      "title": "Docent (tenure track), hoofddocent, hoogleraar revalidatiewetenschappen en kinesitherapie - neurorevalidatie bij volwassenen (80-100%)",
+    "f8781361a709e6af": {
+      "title": "Docent tenure track hoofddocent hoogleraar revalidatiewetenschappen en kinesitherapie neurorevalidatie bij volwassenen (80-100%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3534-docent-tenure-track-hoofddocent-hoogleraar-revalidatiewetenschappen-en-kinesitheraptie-neurorevalidatie-bij-volwassenen-80-100"
     },
-    "9e340898b9a27eb0": {
-      "title": "Docent (tenure track), hoofddocent, hoogleraar revalidatiewetenschappen en kinesitherapie - revalidatie bij inwendige aandoeningen (50-70%)",
+    "926da1af5debd2b4": {
+      "title": "Docent tenure track hoofddocent hoogleraar revalidatiewetenschappen en kinesitherapie revalidatie bij inwendige aandoeningen (50-70%)",
       "url": "https://www.uhasselt.be/nl/over-uhasselt/werken-bij-uhasselt/vacatures/detail/3538-docent-tenure-track-hoofddocent-hoogleraar-revalidatiewetenschappen-en-kinesitherapie-revalidatie-bij-inwendige-aandoeningen-50-70"
     },
     "549064caf45ceb3a": {
@@ -555,6 +583,10 @@
     "bdb46077d5163a11": {
       "title": "Professor in comparatieve oncologie (BOF)",
       "url": "https://jobs.ugent.be/job/Merelbeke-Professor-in-comparatieve-oncologie-%28BOF%29-9820/1364108857/"
+    },
+    "0eeafe1deed3acec": {
+      "title": "Postdoc Researcher",
+      "url": "https://jobs.ugent.be/job/Gent-Postdoc-Researcher-9000/1364771057/"
     },
     "8e2700699b7689f6": {
       "title": "Postdoctoral Researcher in Multimodal AI for Data-Driven Prostate Cancer Radiotherapy",
@@ -576,13 +608,13 @@
       "title": "Postdoctoral researcher",
       "url": "https://jobs.ugent.be/job/Zwijnaarde-Postdoctoral-researcher-9052/1366830057/"
     },
-    "0858dd79bfdb2f94": {
-      "title": "Post-doctoraal onderzoeker (Groep 3)",
-      "url": "https://jobs.ugent.be/job/Gent-Post-doctoraal-onderzoeker-%28Groep-3%29-9000/1366816457/"
-    },
     "6cce3b7cb3de5b1d": {
       "title": "Post-doctoraal onderzoeker Groep 3",
       "url": "https://jobs.ugent.be/job/Gent-Post-doctoraal-onderzoeker-Groep-3-9000/1366783357/"
+    },
+    "0858dd79bfdb2f94": {
+      "title": "Post-doctoraal onderzoeker (Groep 3)",
+      "url": "https://jobs.ugent.be/job/Gent-Post-doctoraal-onderzoeker-%28Groep-3%29-9000/1366816457/"
     },
     "cf6e06d342136f23": {
       "title": "Postdoctoraal medewerker",
@@ -604,17 +636,17 @@
       "title": "Post-doctoraal onderzoeker incidenteel taalleren",
       "url": "https://jobs.ugent.be/job/Gent-Post-doctoraal-onderzoeker-incidenteel-taalleren-9000/1366383757/"
     },
-    "3f108c54299ad36a": {
-      "title": "Postdoctoraal medewerker",
-      "url": "https://jobs.ugent.be/job/Gent-Postdoctoraal-medewerker-9000/1366232957/"
+    "b125be1258069212": {
+      "title": "Post-doctoraal onderzoeker in flexible query answering systems",
+      "url": "https://jobs.ugent.be/job/Gent-Post-doctoraal-onderzoeker-in-flexible-query-answering-systems-9000/1366250457/"
     },
     "bd03c1527bed0fee": {
       "title": "Wetenschappelijk medewerker",
       "url": "https://jobs.ugent.be/job/Gent-Wetenschappelijk-medewerker-9000/1366292657/"
     },
-    "b125be1258069212": {
-      "title": "Post-doctoraal onderzoeker in flexible query answering systems",
-      "url": "https://jobs.ugent.be/job/Gent-Post-doctoraal-onderzoeker-in-flexible-query-answering-systems-9000/1366250457/"
+    "3f108c54299ad36a": {
+      "title": "Postdoctoraal medewerker",
+      "url": "https://jobs.ugent.be/job/Gent-Postdoctoraal-medewerker-9000/1366232957/"
     },
     "cd14b4dca229c703": {
       "title": "Scientific researcher (Operations Management - 100%/ 6 months)",
@@ -627,13 +659,13 @@
     "c962a361a0f30571": {
       "title": "Deeltijds onderzoeksmedewerker (60%)",
       "url": "https://jobs.ugent.be/job/Gent-Deeltijds-onderzoeksmedewerker-%2860%29-9000/1365163657/"
-    },
-    "0eeafe1deed3acec": {
-      "title": "Postdoc Researcher",
-      "url": "https://jobs.ugent.be/job/Gent-Postdoc-Researcher-9000/1364771057/"
     }
   },
   "VUB": {
+    "ffc50491027e804f": {
+      "title": "Professor Statistiek",
+      "url": "https://jobs.vub.be/job/Elsene-Professor-Statistiek/1408235233/"
+    },
     "33a7f56f0ed3af84": {
       "title": "Doctoraatsbeurs in Large Language Models, Innovatie en Wetenschap",
       "url": "https://jobs.vub.be/job/Elsene-Doctoraatsbeurs-in-Large-Language-Models%2C-Innovatie-en-Wetenschap/1386912233/"
@@ -642,13 +674,13 @@
       "title": "Communicatie- en eventmedewerker House of Sustainable Transitions",
       "url": "https://jobs.vub.be/job/Elsene-Communicatie-en-eventmedewerker-House-of-Sustainable-Transitions/1406626033/"
     },
-    "9a873461e40726b8": {
-      "title": "Doctoraatsbeurs Bio-ingenieurswetenschappen - Industriële Microbiologie en Voedingsbiotechnologie",
-      "url": "https://jobs.vub.be/job/Elsene-Doctoraatsbeurs-Bio-ingenieurswetenschappen-Industri%C3%ABle-Microbiologie-en-Voedingsbiotechnologie/1395517333/"
-    },
     "840b08ebac1fe00b": {
       "title": "Doctoraatsbeurs in de algemene en organische chemie",
       "url": "https://jobs.vub.be/job/Elsene-Doctoraatsbeurs-in-de-algemene-en-organische-chemie/1395512133/"
+    },
+    "9a873461e40726b8": {
+      "title": "Doctoraatsbeurs Bio-ingenieurswetenschappen - Industriële Microbiologie en Voedingsbiotechnologie",
+      "url": "https://jobs.vub.be/job/Elsene-Doctoraatsbeurs-Bio-ingenieurswetenschappen-Industri%C3%ABle-Microbiologie-en-Voedingsbiotechnologie/1395517333/"
     },
     "860e391fe91570e9": {
       "title": "Onderzoeker - Next-Generation Dakbeplating met Perforaties en Micro-Profilering",
@@ -678,13 +710,13 @@
       "title": "PhD-onderzoeker rond laserdynamica voor het uitlezen van vezelsensoren.",
       "url": "https://jobs.vub.be/job/Elsene-PhD-onderzoeker-rond-laserdynamica-voor-het-uitlezen-van-vezelsensoren_/1289054001/"
     },
-    "33bf8d39fd3da441": {
-      "title": "PhD domein elektriciteit",
-      "url": "https://jobs.vub.be/job/Elsene-PhD-domein-elektriciteit/1393769433/"
-    },
     "ae7311bdeebd5828": {
       "title": "Onderzoeker Elektrische Voertuigen",
       "url": "https://jobs.vub.be/job/Elsene-Onderzoeker-Elektrische-Voertuigen/1393787533/"
+    },
+    "33bf8d39fd3da441": {
+      "title": "PhD domein elektriciteit",
+      "url": "https://jobs.vub.be/job/Elsene-PhD-domein-elektriciteit/1393769433/"
     },
     "cf288f2154ecdddc": {
       "title": "Doctoraatsbeurs voor de SQUARE Core Facility",
@@ -694,13 +726,13 @@
       "title": "Mandaatassistent onderzoeksmethoden en - technieken",
       "url": "https://jobs.vub.be/job/Elsene-Mandaatassistent-onderzoeksmethoden-en-technieken/1412765033/"
     },
-    "5bde315ecb7f6b5a": {
-      "title": "Praktijkassistent NCZ en filosofie",
-      "url": "https://jobs.vub.be/job/Elsene-Praktijkassistent-NCZ-en-filosofie/1412972633/"
-    },
     "332d4d4fb900c42b": {
       "title": "Praktijkassistent Biologie",
       "url": "https://jobs.vub.be/job/Elsene-Praktijkassistent-Biologie/1412971833/"
+    },
+    "5bde315ecb7f6b5a": {
+      "title": "Praktijkassistent NCZ en filosofie",
+      "url": "https://jobs.vub.be/job/Elsene-Praktijkassistent-NCZ-en-filosofie/1412972633/"
     },
     "ad400dd7481864b8": {
       "title": "Kindbegeleid(st)er",
@@ -726,21 +758,17 @@
       "title": "Praktijkassistent Psychodynamische Therapie",
       "url": "https://jobs.vub.be/job/Elsene-Praktijkassistent-Psychodynamische-Therapie/1400450333/"
     },
-    "6dfca31ca04f24c1": {
-      "title": "Praktijkassistent stage & masterproef Criminologie",
-      "url": "https://jobs.vub.be/job/Elsene-Praktijkassistent-stage-&-masterproef-Criminologie/1410155333/"
-    },
-    "bf0e1f25244518b4": {
-      "title": "Praktijkassistent Statistiek",
-      "url": "https://jobs.vub.be/job/Elsene-Praktijkassistent-Statistiek/1410153833/"
-    },
     "9e63447e16293f68": {
       "title": "Senior Postdoctoraal Onderzoeker - Research Manager",
       "url": "https://jobs.vub.be/job/Elsene-Senior-Postdoctoraal-Onderzoeker-Research-Manager/1408756833/"
     },
-    "ffc50491027e804f": {
-      "title": "Professor Statistiek",
-      "url": "https://jobs.vub.be/job/Elsene-Professor-Statistiek/1408235233/"
+    "080ea79a08b1e96f": {
+      "title": "Doctoraatsbeurs Electronics, Microwaves, Modeling, Instrumentation and Characterization",
+      "url": "https://jobs.vub.be/job/Elsene-Doctoraatsbeurs-Electronics%2C-Microwaves%2C-Modeling%2C-Instrumentation-and-Characterization/1401308233/"
+    },
+    "8a0e4343349f7dc0": {
+      "title": "Doctoraatsbeurs Electronics, Microwaves, Modeling, Instrumentation and Characterization",
+      "url": "https://jobs.vub.be/job/Elsene-Doctoraatsbeurs-Electronics%2C-Microwaves%2C-Modeling%2C-Instrumentation-and-Characterization/1401326033/"
     }
   },
   "AP": {
